@@ -1,0 +1,48 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+.settings/
+.classpath
+.project
+
+# Test Reports
+allure-results/
+.allure/
+allure-report/
+test-output/
+screenshots/
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
